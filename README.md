@@ -1,12 +1,3 @@
-<style>
-red { color: red }
-h3 { color: yellow }
-gray {color:gray}
-orange {color:orange}
-arial {font-family:arial}
-white {color:white}
-</style>
-
 # <orange>ISTQB Fundementals of Testing</orange>
 
 <br>
