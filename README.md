@@ -46,7 +46,7 @@
 
 ### Debugging
 
-Debugging is the development activity that finds,analyzes,and fixes such defects.
+    Debugging is the development activity that finds,analyzes,and fixes such defects.
 
 <br>
 
