@@ -1,4 +1,4 @@
-# <orange>ISTQB Fundementals of Testing</orange>
+# <orange>ISTQB Fundamentals of Testing</orange>
 
 <br>
 
